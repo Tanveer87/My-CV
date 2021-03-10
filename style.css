@@ -13,10 +13,6 @@ body{
     padding: 20px;
 
 }
-header{
-
-
-}
 
 .profileimage{
     width: 100px;
@@ -164,4 +160,8 @@ skills Section
 .bottom p{
     color: white;
     margin-top: 15px;
+}
+
+.Header{
+    background-color: blue;
 }
